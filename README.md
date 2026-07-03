@@ -2,3 +2,5 @@ run in terminal "py app.py" and download the following requirements with "python
 
 to change the song:
 put your own mp3 file on the folder and rename it "song"
+
+HRTF: https://www.york.ac.uk/sadie-project/database.html SADIE II Database
