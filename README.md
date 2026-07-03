@@ -5,4 +5,4 @@ put your own mp3 file on the folder and rename it "song"
 
 HRTF: https://www.york.ac.uk/sadie-project/database.html SADIE II Database
 
-python 3.12 required: https://www.python.org/downloads/release/python-3120/
+python 3.11 required https://www.python.org/downloads/release/python-3110/
